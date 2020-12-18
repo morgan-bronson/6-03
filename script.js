@@ -13,3 +13,4 @@ function ageofuser() {
   } else {
     alert('you cannot see any movies alone')
   }
+}
