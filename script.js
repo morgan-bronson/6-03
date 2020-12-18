@@ -2,7 +2,7 @@
 
 document.getElementById('mybtn').addEventListener('click', ageofuser)
 
-function ageofuser() {
+function ageofuser () {
   const input = (document.getElementById('input').value)
   if (input >= 17) {
     alert('you can see an R rated movie alone')
